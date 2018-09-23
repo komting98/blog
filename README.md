@@ -1,0 +1,2 @@
+# blog
+safelink blog utama
