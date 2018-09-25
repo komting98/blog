@@ -1,3 +1,5 @@
 {"radio":{"radiolist":[
-{"id":"1","stationname":"ISTANA\u00a0FM\u00a0BOJONEGORO","radiourl":"http://radioistanabojonegoro.co.id:8000/istana","photo":"https://2.bp.blogspot.com/-YO8h5Wy6Fnw/W6he-ZaAyJI/AAAAAAAABXs/M7y1jRogCW4a_7X8d7bCI43ICX-s7OPCQCLcBGAs/s1600/istana%2Bkecil.png"},
-{"id":"2","stationname":"FAJAR\u00a0FM\u00a0BANYUWANGI","radiourl":"http://95.154.254.81:32636","photo":"https://3.bp.blogspot.com/-OFps7ee6U6U/W6hfr9ilqsI/AAAAAAAABX0/ZeRi3Co-GekdNVOPKjQPZqXKILTV00SOQCLcBGAs/s1600/fajar.jpg"}]}}
+{"id":"1","stationname":"RADIO\u00a0INTERNET","radiourl":"http://45.64.98.181:8113/;","photo":"https://3.bp.blogspot.com/-P2lmfYeam3o/W6rAY8mp_MI/AAAAAAAABYM/BYOfjGZxWZw6apN7KZ6OP_V0XXWqay4FACLcBGAs/s1600/ri.gif"},
+{"id":"2","stationname":"CITIS\u00a0FM\u00a0ACEH","radiourl":"http://78.129.190.50:30677/;stream.mp3","photo":"https://1.bp.blogspot.com/-9jpuNnhg0-I/W6rAmqYWd6I/AAAAAAAABYQ/rEfL6LoCS8siETSyxCs-LNGqRgXNEuxuwCLcBGAs/s1600/citis.jp"},
+{"id":"3","stationname":"ISTANA\u00a0FM\u00a0BOJONEGORO","radiourl":"http://radioistanabojonegoro.co.id:8000/istana","photo":"https://2.bp.blogspot.com/-YO8h5Wy6Fnw/W6he-ZaAyJI/AAAAAAAABXs/M7y1jRogCW4a_7X8d7bCI43ICX-s7OPCQCLcBGAs/s1600/istana%2Bkecil.png"},
+{"id":"4","stationname":"FAJAR\u00a0FM\u00a0BANYUWANGI","radiourl":"http://95.154.254.81:32636","photo":"https://3.bp.blogspot.com/-OFps7ee6U6U/W6hfr9ilqsI/AAAAAAAABX0/ZeRi3Co-GekdNVOPKjQPZqXKILTV00SOQCLcBGAs/s1600/fajar.jpg"}]}}
