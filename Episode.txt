@@ -8,6 +8,21 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
+	<title></title>
+	<atom:link href="" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate></lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator></generator>
+<itunes:subtitle></itunes:subtitle>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam" />
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+		<item>
 		<title>Kisah dari seberang lautan Seri -060</title>
 		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/</link>
 		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/#respond</comments>
@@ -29,6 +44,7 @@
 https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3 | Open Player in New Window
 </itunes:summary>
 <itunes:subtitle>Kisah dari seberang lautan Seri -060</itunes:subtitle>
+	</item>
 		
 		<item>
 		<title>Kisah dari seberang lautan Seri -031</title>
