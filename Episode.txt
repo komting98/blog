@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>Kisah dari Seberang Lautan &#8211; Radio Podcast Indonesia</title>
+	<atom:link href="http://podcast.riifm.top/category/kisah-dari-seberang-lautan/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://podcast.riifm.top</link>
+	<description>Koleksi Ceramah Agama Islam dan lagu islami</description>
+	<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<itunes:subtitle>Koleksi Ceramah Agama Islam dan lagu islami</itunes:subtitle>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam" />
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+		<item>
+		<title>Kisah dari seberang lautan Seri -060</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:29:43 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3757</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -060]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -060</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3&id=3757" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -060
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -060</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -059</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-059/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-059/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3755</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -059]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -059</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-059.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-059.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-059.mp3&id=3755" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-059/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-059.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -059
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-059.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -059</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -058</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-058/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-058/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:27:05 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3753</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -058]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -058</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-058.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-058.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-058.mp3&id=3753" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-058/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-058.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -058
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-058.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -058</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -057</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-057/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-057/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:25:44 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3751</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -057]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -057</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-057.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-057.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-057.mp3&id=3751" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-057/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-057.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -057
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-057.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -057</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -056</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-056/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-056/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:24:16 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3749</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -056]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -056</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-056.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-056.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-056.mp3&id=3749" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-056/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-056.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -056
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-056.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -056</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -055</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-055/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-055/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:22:54 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3747</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -055]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -055</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-055.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-055.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-055.mp3&id=3747" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-055/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-055.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -055
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-055.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -055</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -054</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-054/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-054/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:20:59 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3745</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -054]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -054</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-054.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-054.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-054.mp3&id=3745" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-054/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-054.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -054
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-054.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -054</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -053</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-053/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-053/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3743</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -053]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -053</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-053.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-053.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-053.mp3&id=3743" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-053/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-053.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -053
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-053.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -053</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -052</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-052/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-052/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:17:53 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3741</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -052]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -052</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-052.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-052.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-052.mp3&id=3741" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-052/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-052.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -052
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-052.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -052</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -051</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-051/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-051/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3739</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -051]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -051</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-051.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-051.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-051.mp3&id=3739" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-051/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-051.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -051
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-051.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -051</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -050</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-050/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-050/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3737</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -050]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -050</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-050.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-050.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-050.mp3&id=3737" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-050/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-050.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -050
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-050.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -050</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -049</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-049/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-049/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:13:22 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3735</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -049]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -049</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-049.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-049.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-049.mp3&id=3735" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-049/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-049.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -049
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-049.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -049</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -048</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-048/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-048/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:10:58 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3733</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -048]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -048</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-048.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-048.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-048.mp3&id=3733" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-048/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-048.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -048
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-048.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -048</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -047</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-047/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-047/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:09:25 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3731</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -047]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -047</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-047.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-047.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-047.mp3&id=3731" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-047/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-047.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -047
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-047.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -047</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -046</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-046/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-046/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 07:07:59 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3729</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -046]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -046</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-046.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-046.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-046.mp3&id=3729" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-046/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-046.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -046
+https://archive.org/download/kisah-dari-seberang-lautan2/seri-046.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -046</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -045</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-045/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-045/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:48:47 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3727</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -045]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -045</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-045.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-045.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-045.mp3&id=3727" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-045/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-045.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -045
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-045.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -045</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -044</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-044/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-044/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:47:02 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3725</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -044 &#160;]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -044</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-044.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-044.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-044.mp3&id=3725" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-044/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-044.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -044
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-044.mp3 | Open Player in New Window
+ 
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -044  </itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -043</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-043/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-043/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:44:26 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3723</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -043 &#160;]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -043</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-043.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-043.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-043.mp3&id=3723" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-043/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-043.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -043
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-043.mp3 | Open Player in New Window
+ 
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -043  </itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -042</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-042/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-042/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:42:43 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3721</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -042]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -042</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-042.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-042.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-042.mp3&id=3721" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-042/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-042.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -042
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-042.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -042</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -040</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-040/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-040/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:38:58 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3717</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -040 &#160;]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -040</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-040.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-040.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-040.mp3&id=3717" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-040/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-040.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -040
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-040.mp3 | Open Player in New Window
+ 
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -040  </itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -039</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-039/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-039/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:36:58 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3715</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -039]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -039</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-039.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-039.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-039.mp3&id=3715" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-039/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-039.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -039
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-039.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -039</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -038</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-038/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-038/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:35:21 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3713</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -038]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -038</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-038.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-038.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-038.mp3&id=3713" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-038/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-038.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -038
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-038.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -038</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -037</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-037/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-037/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:33:05 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3711</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -037]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -037</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-037.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-037.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-037.mp3&id=3711" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-037/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-037.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -037
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-037.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -037</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -036</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-036/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-036/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:31:33 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3709</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -036]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -036</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-036.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-036.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-036.mp3&id=3709" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-036/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-036.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -036
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-036.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -036</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -035</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-035/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-035/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:29:45 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3707</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -035]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -035</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-035.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-035.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-035.mp3&id=3707" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-035/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-035.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -035
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-035.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -035</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -034</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-034/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-034/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:26:30 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3705</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -034]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -034</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-034.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-034.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-034.mp3&id=3705" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-034/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-034.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -034
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-034.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -034</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -033</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-033/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-033/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 06:23:15 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3703</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -033]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -033</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-033.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-033.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-033.mp3&id=3703" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-033/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-033.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -033
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-033.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -033</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -032</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-032/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-032/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 05:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[kisah dari seberang lautan]]></category>
+		<category><![CDATA[Tutur tinular]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3699</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -032]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -032</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-032.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-032.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-032.mp3&id=3699" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-032/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-032.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -032
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-032.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -032</itunes:subtitle>
+	</item>
+		<item>
+		<title>Kisah dari seberang lautan Seri -031</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+		<category><![CDATA[kisah dari seberang lautan]]></category>
+		<category><![CDATA[seri 031]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3697</guid>
+		<description><![CDATA[Kisah dari seberang lautan Seri -031]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -031</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3&id=3697" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -031
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Player in New Window
+</itunes:summary>
+<itunes:subtitle>Kisah dari seberang lautan Seri -031</itunes:subtitle>
+	</item>
+	</channel>
+</rss>
