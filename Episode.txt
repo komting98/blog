@@ -32,12 +32,5 @@ https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Pla
 </itunes:summary>
 <itunes:subtitle>Kisah dari seberang lautan Seri -031</itunes:subtitle>
 	</item>
-
-		<item>
-		<title>Kisah dari seberang lautan Seri - 031 abcd</title>
-		<description><![CDATA[Kisah dari seberang lautan Seri - 031 xyz]]></description>
-<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3" length="1048576" type="audio/mpeg" />
-<itunes:subtitle>Kisah dari seberang lautan Seri - 031 012345</itunes:subtitle>
-	</item>
 	</channel>
 </rss>
