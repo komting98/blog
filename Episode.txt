@@ -34,7 +34,7 @@
 
 		<guid isPermaLink="false">http://podcast.riifm.top/?p=3757</guid>
 		<description><![CDATA[deskripsi Kisah dari seberang lautan Seri -060]]></description>
-				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -060</p>
+				<content:encoded><![CDATA[<p>content Kisah dari seberang lautan Seri -060</p>
 <a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3&id=3757" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
 ]]></content:encoded>
 			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/feed/</wfw:commentRss>
