@@ -39,7 +39,7 @@
 ]]></content:encoded>
 			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3" length="1048576" type="audio/mpeg" />
+<enclosure url="https://drive.google.com/uc?export=download&id=1K3LmIDfB9p4sbyRbt6r_pKlJIGE9W5Et" length="1048576" type="audio/mpeg" />
 	<itunes:summary>Kisah dari seberang lautan Seri -060
 https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3 | Open Player in New Window
 </itunes:summary>
