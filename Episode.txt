@@ -64,7 +64,7 @@ https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3 | Open Pla
 ]]></content:encoded>
 			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3" length="1048576" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/ADB03SERI01/ADB%2003%20SERI%2001.mp3" length="1048576" type="audio/mpeg" />
 	<itunes:summary>Kisah dari seberang lautan Seri -031
 https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Player in New Window
 </itunes:summary>
