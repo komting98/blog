@@ -82,7 +82,7 @@ https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Pla
 		<category><![CDATA[seri 031]]></category>
 
 		<guid isPermaLink="false">http://podcast.riifm.top/?p=3697</guid>
-		<description><![CDATA[Kisah dari seberang lautan Seri -031]]></description>
+		<description><![CDATA[Kisah dari seberang lautan Seri - 044]]></description>
 				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -031</p>
 <a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3&id=3697" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
 ]]></content:encoded>
