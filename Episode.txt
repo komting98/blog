@@ -23,7 +23,7 @@
 	</itunes:category>
 	<itunes:explicit>no</itunes:explicit>
 		<item>
-		<title>title Kisah dari seberang lautan Seri -060</title>
+		<title>Kisah dari seberang lautan Seri -060</title>
 		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/</link>
 		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/#respond</comments>
 		<pubDate>Sat, 07 Apr 2018 07:29:43 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[Tutur tinular]]></category>
 
 		<guid isPermaLink="false">http://podcast.riifm.top/?p=3757</guid>
-		<description><![CDATA[Kisah dari seberang lautan Seri -060]]></description>
+		<description><![CDATA[deskripsi Kisah dari seberang lautan Seri -060]]></description>
 				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -060</p>
 <a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3&id=3757" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
 ]]></content:encoded>
