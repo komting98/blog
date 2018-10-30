@@ -1,6 +1,11 @@
 <ASX version="3.0" bannerbar="fixed">
 
 <ENTRY>
+<TITLE>Radio Istana FM</TITLE>
+<REF HREF="http://radioistanabojonegoro.co.id:8000/istana?1517492234648" />
+</ENTRY>
+ 
+<ENTRY>
 <TITLE>Sirna Hilang Kertaning Bumi</TITLE>
 <REF HREF="https://archive.org/download/pdgw-57/pdgw-45.mp3" />
 </ENTRY>
