@@ -8,7 +8,7 @@ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-<title>Sabda Pandita Ratu</title>
+<title>0</title>
 <atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
 <link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
 <description>0</description>
@@ -46,10 +46,10 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
 <description><![CDATA[Episode 01 - Tumenggung Murtiwandawa - Seri 003-004]]></description>
 <wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
-<slash:comments>0</slash:comments>
+<slash:comments>comments</slash:comments>
 <enclosure url="https://archive.org/download/021022_201810/003-004.mp3" length="1048576" type="audio/mpeg" />
-<itunes:summary>0</itunes:summary>
-<itunes:subtitle>0</itunes:subtitle>
+<itunes:summary>summary</itunes:summary>
+<itunes:subtitle>subtitle</itunes:subtitle>
 </item>
 
 </channel></rss>
